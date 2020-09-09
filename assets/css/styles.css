@@ -3,3 +3,7 @@
 p {
   color: red;
 }
+.myclass {
+  background-color: blue;
+  text-decoration: underline;
+}
