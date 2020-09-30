@@ -10,13 +10,14 @@ body {
   background-color: #ee0000;
   width: 590px;
   justify-content: center;
+  margin:auto;
 }
-#pink {
+.pink {
   background-color: #ee008f;
   width: 590px;
   height: 470px;
   position: absolute;
-  justify-content: center;
+  margin:auto;
 }
 .blue {
   color: #70d1f9;
