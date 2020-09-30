@@ -8,7 +8,6 @@ body {
 }
 .container {
   background-color: #ee0000;
-  justify-content: center;
   width: 590px;
 
 }
@@ -17,7 +16,6 @@ body {
   width: 590px;
   height: 470px;
   position: absolute;
-  justify-content: center;
   left:0;
 }
 .blue {
