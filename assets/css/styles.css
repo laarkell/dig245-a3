@@ -8,16 +8,17 @@ body {
 }
 .container {
   background-color: #ee0000;
-  width: 590px;
   justify-content: center;
-  margin:auto;
+  width: 590px;
+
 }
 .pink {
   background-color: #ee008f;
   width: 590px;
   height: 470px;
   position: absolute;
-  margin:auto;
+  justify-content: center;
+  left:0;
 }
 .blue {
   color: #70d1f9;
