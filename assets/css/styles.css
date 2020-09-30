@@ -3,9 +3,19 @@
 body {
   font-family: "Helvetica Neue", Helvetica;
   background-color: #ee008f;
+  text-align: right;
+  color: #ffffff;
 }
-.container {
+.container {}
 
+.blue {
+  color: #70d1f9;
+}
+.green {
+  color: #6fc503;
+}
+.red{
+  background-color: #ee0000;
 }
 h1 {
   font-size: 45px;
