@@ -16,10 +16,10 @@ Recreate your favorite example of Swiss Design!
   - [x] Save your document often
   - [x] Make new versions as needed, naming them `2.psd`, `3.psd`, etc.
 - [ ] HTML/CSS
-  - [ ] Code your design inside `index.html`
-  - [ ] Use only HTML and CSS to structure and style your design
-  - [ ] Do not add images. Retype the text from the example you chose
-  - [ ] Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS to create your design
+  - [x] Code your design inside `index.html`
+  - [x] Use only HTML and CSS to structure and style your design
+  - [x] Do not add images. Retype the text from the example you chose
+  - [x] Use the [Bootstrap documentation](https://getbootstrap.com/docs/) as well as custom CSS to create your design
   - [ ] Use CSS position, border, and translate() properties to create and rotate lines
   - [ ] Include a link to the image of the original design somewhere on the page.
   - [ ] Save your work and commit and push changes regularly
