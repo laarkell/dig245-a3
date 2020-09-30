@@ -8,8 +8,6 @@ body {
   display: block;
 }
 .container {
-  margin-top: 150px;
-  margin-bottom: 150px;
   max-width: 540px;
   padding-right: 15px;
   padding-left:15px;
