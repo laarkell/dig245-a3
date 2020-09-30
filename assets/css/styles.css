@@ -5,28 +5,32 @@ body {
   text-align: right;
   color: #ffffff;
   display: block;
-  background-color: #ee0000;
 }
 .container {
-  height: 220px;
-  width: 540px;
-  box-sizing:content-box;
-  position: relative;
+  background-color: #ee0000;
+  width: 590px;
+  justify-content: center;
 }
-
+#pink {
+  background-color: #ee008f;
+  width: 590px;
+  height: 470px;
+  position: absolute;
+  justify-content: center;
+}
 .blue {
   color: #70d1f9;
 }
 .green {
   color: #6fc503;
 }
-.red{
-  background-color: #ee0000;
+#white{
+  color: white;
 }
 .title{
-  font-size:4rem;
+  font-size:3rem;
   text-align:center;
-  z-index:1;
+  color: black;
 }
 .saturday{
   line-height: 20px;
@@ -55,11 +59,14 @@ h2 {
   font-size: 1.3rem;
 }
 
-.background {
+div {
+    position: relative;
+    color: #6fc503;
+    font-size: 9rem;
+}
+div span {
+    height: 53.5%;
     position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 100%;
-    height: 61.5%;
-    background-color: #ee008f;
+    color: #70d1f9;
+    overflow: hidden;
 }
